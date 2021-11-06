@@ -44,7 +44,7 @@ iframe {
 main {
     background: #f5deb3;
     color: #000000;
-    padding: 80px 0;
+    padding: 70px 0;
 }
 
 li {
@@ -103,13 +103,13 @@ a:active {
 #menu-btn ul {
     position: absolute;
     right: 0px;
-    top: 80px;
+    top: 70px;
     margin: 0px;
     padding: 10px 30px;
     text-align: right;
     background-color:rgba(224,255,255,0.5);
     font-size: 20px;
-    width: 150px;
+    width: 160px;
     
 }
 
