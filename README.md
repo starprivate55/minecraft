@@ -1,1 +1,1 @@
-# new-site
+# hoshino server
