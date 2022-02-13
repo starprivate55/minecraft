@@ -152,8 +152,8 @@ a:active {
 }
 
 .box{
-    padding: 0.5em;
     margin: 10px;
+    padding: 0.5em;
     color: #474747;
     background: whitesmoke;
     border-left: double 7px #4ec4d3;
