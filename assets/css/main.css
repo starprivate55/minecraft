@@ -152,7 +152,7 @@ a:active {
 }
 
 .box{
-    margin: 10px;
+    margin: 25px;
     color: #474747;
     background: whitesmoke;
     border-left: double 7px #4ec4d3;
@@ -162,6 +162,6 @@ a:active {
 }
 
 .box p {
-    margin: 0; 
+    margin: 10px; 
     padding: 0;
 }
