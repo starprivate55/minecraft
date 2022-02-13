@@ -158,6 +158,8 @@ a:active {
     background: whitesmoke;
     border-left: double 7px #4ec4d3;
     border-right: double 7px #4ec4d3;
+    border-top: double 5px #4ec4d3;
+    border-bottom: double 5px #4ec4d3;
 }
 
 .box p {
