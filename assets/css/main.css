@@ -129,6 +129,7 @@ a:active {
     line-height:45px;
     margin: 10px;
 }
+
 .btn a{
     display:block;
     width:100%;
@@ -143,8 +144,23 @@ a:active {
     box-shadow:0px 2px 2px 0px #DEDEDE ;
     transition: all 1s ease;
 }
+
 .btn a:hover{
     background:#f7f7f7;
     color:#285c6b;
     box-shadow:0px 2px 2px 0px #DEDEDE ;
+}
+
+.box{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #474747;
+    background: whitesmoke;
+    border-left: double 7px #4ec4d3;
+    border-right: double 7px #4ec4d3;
+}
+
+.box p {
+    margin: 0; 
+    padding: 0;
 }
