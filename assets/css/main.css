@@ -160,8 +160,3 @@ a:active {
     border-top: double 5px #4ec4d3;
     border-bottom: double 5px #4ec4d3;
 }
-
-.box p {
-    margin: 10px; 
-    padding: 0;
-}
