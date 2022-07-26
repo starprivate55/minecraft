@@ -23,10 +23,12 @@ h2 {
     padding: 1rem 1rem;
     border-left: 6px double #000;
     margin: 10px;
+    font-size: large;
 }
 
 h3 {
     margin: 10px;
+    font-size: large;
 }
 
 table {
@@ -35,6 +37,7 @@ table {
 
 p {
     margin: 10px;
+    font-size: large;
 }
 
 iframe {
@@ -45,7 +48,6 @@ main {
     background: #f5deb3;
     color: #000000;
     padding: 70px 0;
-    font-size: large;
 }
 
 li {
