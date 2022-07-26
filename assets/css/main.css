@@ -10,7 +10,7 @@ header {
     background: #ffa500;
     padding: 20px 30px;
     width: calc(100vw - 60px);
-    height: 30px;
+    height: 40px;
     z-index: 9999;
     position: fixed;
     top: 0px;
